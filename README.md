@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PUSH-YA
-- 2nd year UBC student
+- comp sci + data sci student
 - Documenting different projects here
 - 📫 https://www.linkedin.com/in/pushya-jain-4546a6150/
 
