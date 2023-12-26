@@ -1,6 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m @PUSH-YA<br>- computer science + data science student<br>- Documenting my learning process here
 
+|![](https://raw.githubusercontent.com/Jeanselme/VisualizerTransformation/master/images/iris.gif)| <img src="https://github.com/PUSH-YA/PUSH-YA/assets/91928008/305493f2-3ce5-4b95-b834-26791d9530a4" width="400"/>|
+|--|--|
+
 ---
 
 # 🌐 Socials:
@@ -13,9 +16,15 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=PUSH-YA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PUSH-YA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=PUSH-YA&theme=dark&hide_border=false)
+
+3 Most used languages:
+|Rank| Languages|
+|--|------------------|
+|1| Python|
+|2| R|
+|3| Java|
 
 ---
 
