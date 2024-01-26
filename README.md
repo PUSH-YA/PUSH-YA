@@ -25,9 +25,8 @@
 |1| Python|
 |2| R|
 |3| C++ & Java|
+<!--![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=push-ya&theme=tokyonight) --> 
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=PUSH-YA&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
