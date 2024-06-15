@@ -1,10 +1,20 @@
 # 💫 About Me:
-- 👋 Hi, I’m @PUSH-YA<br>- computer science + data science student<br>- Documenting my learning process here
+- 👋 Hi, I’m @PUSH-YA<br>
+- computer science + statistics student student<br>
+- previously worked as data analyst / data engineer at fnha
+- future work: data engineer at movmint
+- Documenting my learning process here
 
 |![](https://raw.githubusercontent.com/Jeanselme/VisualizerTransformation/master/images/iris.gif)| <img src="https://github.com/PUSH-YA/PUSH-YA/assets/91928008/305493f2-3ce5-4b95-b834-26791d9530a4" width="400"/>|
 |--|--|
 
 ---
+
+## Interests:
+- Statistical modelling (including traditionl AI, ML, Markov Models and Time Series forecasting)
+- Data engineering techniques (such as optimising data pipelines)
+- Computer vision algorithms
+- Ethics -- role of computer / data scientists in modern age (although no projects relating to this on GitHub)
 
 # 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://push-ya.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushya-jain-4546a6150/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pushya22.jain) 
@@ -22,8 +32,8 @@
 3 Most used languages:
 |Rank| Languages|
 |--|------------------|
-|1| Python|
-|2| R|
+|1| Python |
+|2| R & SQL|
 |3| C++ & Java|
 <!--![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=push-ya&theme=tokyonight) --> 
 
