@@ -7,7 +7,6 @@
 
 |![](https://raw.githubusercontent.com/Jeanselme/VisualizerTransformation/master/images/iris.gif)| <img src="https://github.com/PUSH-YA/PUSH-YA/assets/91928008/305493f2-3ce5-4b95-b834-26791d9530a4" width="400"/>|
 |--|--|
-
 ---
 
 ## Interests:
@@ -18,6 +17,10 @@
 
 # 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://push-ya.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushya-jain-4546a6150/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pushya22.jain) 
+
+<!--https://editor.analyticsvidhya.com/uploads/121381obtV.gif-->
+<!--[https://editor.analyticsvidhya.com/uploads/121381obtV.gif](https://cdn.prod.website-files.com/63f3993d10c2a062a4c9f13c/6464a1be92002af7d858f4f9_1*RbGYWbAmJ96VB0iiKKqRDA.gif)-->
+<!--https://upload.wikimedia.org/wikipedia/commons/d/da/Magent-graph-2.gif-->
 
 ---
 
