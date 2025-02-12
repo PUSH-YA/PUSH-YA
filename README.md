@@ -5,7 +5,7 @@
 - future work: data engineer at movmint
 - Documenting my learning process here
 
-|<img src="https://mbjoseph.github.io/posts/2018-12-25-animating-the-metropolis-algorithm/animating-the-metropolis-algorithm_files/figure-html5/create-gif.gif" height = "400">| <img src="https://editor.analyticsvidhya.com/uploads/121381obtV.gif" height="400">|
+|<img src="https://mbjoseph.github.io/posts/2018-12-25-animating-the-metropolis-algorithm/animating-the-metropolis-algorithm_files/figure-html5/create-gif.gif" height = "300">| <img src="https://editor.analyticsvidhya.com/uploads/121381obtV.gif" height="300">|
 |--|--|
 
 <!--https://raw.githubusercontent.com/Jeanselme/VisualizerTransformation/master/images/iris.gif-->
