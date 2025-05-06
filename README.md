@@ -31,16 +31,18 @@
 ---
 
 # 📊 Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=PUSH-YA&theme=dark&hide_border=false)
+<p align="center">
+    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=PUSH-YA&theme=dark&hide_border=false">
+</p>
 
 3 Most used languages:
+  
 |Rank| Languages|
 |--|------------------|
 |1| Python |
 |2| R & SQL|
 |3| C++ & Java|
 <!--![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=push-ya&theme=tokyonight) --> 
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=PUSH-YA&icon=0&color=1)](https://visitcount.itsvg.in)
