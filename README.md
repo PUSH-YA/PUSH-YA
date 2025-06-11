@@ -1,4 +1,4 @@
-# 🌟About Me⭐:
+# 🌟About Me🌟:
 - 👋 Hi, I’m @PUSH-YA<br>
 - computer science + statistics student student<br>
 - currently working as RA doing NLP/ML work for UBC Sauder
