@@ -1,9 +1,11 @@
-# 💫 About Me:
+# 🌟About Me⭐:
 - 👋 Hi, I’m @PUSH-YA<br>
 - computer science + statistics student student<br>
+- currently working as RA doing NLP/ML work for UBC Sauder
 - previously worked as data analyst / data engineer at fnha
-- future work: data engineer at movmint
 - Documenting my learning process here
+
+Some cool gifs regarding my areas of interests:
 
 |<img src="https://mbjoseph.github.io/posts/2018-12-25-animating-the-metropolis-algorithm/animating-the-metropolis-algorithm_files/figure-html5/create-gif.gif" height = "300">| <img src="https://editor.analyticsvidhya.com/uploads/121381obtV.gif" height="300">|
 |--|--|
@@ -14,8 +16,8 @@
 
 ---
 
-## Interests:
-- Statistical modelling (including traditionl AI, ML, Markov Models and Time Series forecasting)
+## 💹Interests🤖:
+- Statistical modelling and AI/ML theory (including traditionl AI, ML, Markov Models and Time Series forecasting)
 - Data engineering techniques (eg: ETL processes, optimising data pipelines)
 - Computer vision algorithms (eg: SIFT, RCNN, YOLO)
 - Ethics -- role of computer / data scientists in modern age (although no projects relating to this on GitHub)
@@ -42,7 +44,9 @@
 |1| Python |
 |2| R & SQL|
 |3| C++ & Java|
+
+- The automated Github for the `top-langs` is severely misleading
 <!--![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=push-ya&theme=tokyonight) --> 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PUSH-YA&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=PUSH-YA&icon=0&color=1)
