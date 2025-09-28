@@ -23,6 +23,11 @@ Some cool gifs regarding my areas of interests:
 - Computer vision algorithms (eg: SIFT, RCNN, YOLO)
 - Ethics -- role of computer / data scientists in modern age (although no projects relating to this on GitHub)
 
+## Timeline:
+- ML research @ Huawei, present (2025): Audio Separation using ResUNet and CLAP encoders
+- ML Research Assistant @ UBC Sauder, 8 months (2024): Used ML techniques for similarity search and created an ownership timeline of pharmaceutical drugs
+- Data engineer / assistant @ FNHA, 4 months (2024): ETL w/ SQL, PowerBI dashboards
+
 # 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://push-ya.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushya-jain-4546a6150/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pushya22.jain) 
 
